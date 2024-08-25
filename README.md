@@ -14,6 +14,10 @@ Depending on the speed of the RPC node, the purchase usually happens before the 
 > [!NOTE]
 > This is provided as is, for learning purposes.
 
+Run the following command to install these libraries:
+
+npm install @raydium-io/raydium-sdk @solana/spl-token @solana/web3.js bs58
+
 ## SETUP
 To run the script you need to:
 1. Create a new empty Solana wallet
