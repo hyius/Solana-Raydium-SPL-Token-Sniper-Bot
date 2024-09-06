@@ -1,0 +1,31 @@
+{
+  "name": "PADTHER",
+  "symbol": "PADTHER",
+  "description": "💼 PADTHERE: SERIOUS BUSINESS, SERIOUS MEME COIN 🎉 PadThere is a meme token promoting a business: ✨ STUNNING READY-TO-LAUNCH MEME PACKAGES FOR DEVS. 🛡️ NO RUG ➡️ HAPPY BUSINESS ➡️ HAPPY INVESTORS",
+  "image": "https://cdn.dexscreener.com/cms/images/wT6eMfOEHLW_FYtV?width=150&height=150&fit=crop&quality=95&format=auto",
+  "external_url": "https://padther.xyz/",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Website",
+      "value": "https://padther.xyz/"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/padther"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Padther_Launchpad"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://cdn.dexscreener.com/cms/images/wT6eMfOEHLW_FYtV?width=150&height=150&fit=crop&quality=95&format=auto",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
